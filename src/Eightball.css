@@ -1,0 +1,10 @@
+.Eightball {
+    color: white;
+    border-radius: 50%;
+    height: 30vw;
+    width: 30vw;
+}
+
+.Eightball-message {
+    padding: 13vw 0;
+}
