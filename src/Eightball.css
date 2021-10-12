@@ -3,6 +3,7 @@
     border-radius: 50%;
     height: 30vw;
     width: 30vw;
+    margin:20px auto;
 }
 
 .Eightball-message {
